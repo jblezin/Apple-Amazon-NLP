@@ -1,1 +1,1 @@
-# Apple-Amazon-NLP
+# NLP | Apple | Amazon
